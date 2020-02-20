@@ -1,0 +1,39 @@
+<div class="chall">
+  <img src="chall.png" alt="chall" style="width:100%">
+  <h1 style="text-align:center;font-family: 'Montserrat', sans-serif;color:white">CHALLENGER <BR> RACUN</h1>
+  <p class="price">$300.00</p>
+  <p style="text-align:center;font-family: 'Montserrat', sans-serif;color:white">CHALLENGER ELO | ALL CHAMPS | 200 SKINS | RANK 150 | HIGH MMR</p>
+  <p><button>Dodaj u kosaricu</button></p>
+</div>
+
+<div class="dmd">
+    <img src="gm1.png" alt="gm" style="width:100%"> <BR>
+    <h1 style="text-align:center;font-family: 'Montserrat', sans-serif;color:white">GRANDMASTER <br> RACUN</h1>
+    <p class="price">$250.00</p>
+    <p style="text-align:center;font-family: 'Montserrat', sans-serif;color:white">GRANDMASTER ELO | 118 CHAMPS | 320 SKINS | GOOD MMR</p>
+    <p><button>Dodaj u kosaricu</button></p>
+  </div>
+
+  <div class="silver">
+    <img src="dmd.png" alt="silver" style="width:100%">
+    <h1 style="text-align:center;font-family: 'Montserrat', sans-serif;color:white">DIAMOND RACUN </h1>
+    <p class="price">$100.00</p>
+    <p style="text-align:center;font-family: 'Montserrat', sans-serif;color:white">DIAMOND ELO | 120 CHAMPS | 100 SKINS  | INSANE MMR</p>
+    <p><button>Dodaj u kosaricu</button></p>
+  </div> 
+
+  <div class="iron">
+    <img src="iron.png" alt="iron" style="width:100%">
+    <h1 style="text-align:center;font-family: 'Montserrat', sans-serif;color:white">IRON RACUN </h1>
+    <p class="price">$10.00</p>
+    <p style="text-align:center;font-family: 'Montserrat', sans-serif;color:white">IRON ELO | 20+ CHAMPS | 20+ SKINS  | SMURF  MMR</p>
+    <p><button>Dodaj u kosaricu</button></p>
+  </div> 
+
+  <div class="grandmaster">
+    <img src="silver.png" alt="gm" style="width:100%">
+    <h1 style="text-align:center;font-family: 'Montserrat', sans-serif;color:white">SILVER RACUN </h1>
+    <p class="price">$25.00</p>
+    <p style="text-align:center;font-family: 'Montserrat', sans-serif;color:white">SILVER ELO | 50 CHAMPS | 42 SKINS  | DECENT  MMR</p>
+    <p><button>Dodaj u kosaricu</button></p>
+  </div> 
